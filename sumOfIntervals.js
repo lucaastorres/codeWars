@@ -1,23 +1,3 @@
-// function sumIntervals(intervals) {
-//     // var list = intervals
-//     // intervals.map(el => {
-//     //     console.log('ok2')
-//     //     for(let i = 0; i < list[0].length; i++){
-//     //         if(el[0] == 1){
-//     //             console.log('ok1')
-//     //         }
-//     //     }
-//     // }) 
-//     finalArr = []
-//     intervals.forEach(e => {
-//         for (let i = e[0]; i < e[i]; i++) {
-//             finalArr.push(i)
-//         }
-//     })
-//     finalArr = [...new Set(finalArr)]
-//     return finalArr.length
-// }
-
 function sumIntervals(intervals){
 arr = []
     intervals.forEach(a => {
