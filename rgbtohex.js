@@ -1,4 +1,4 @@
-// My soluction, i can use Math but i'm not understand
+
 
 function rgb(r, g, b){
    const x = a => {
