@@ -16,3 +16,5 @@ function toCamelCase(str){
   }
   
   }
+
+console.log(toCamelCase("the-stealth-warrior"))
