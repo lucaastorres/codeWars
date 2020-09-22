@@ -23,3 +23,5 @@ var countBits = function(n) {
       }
       return count
   };
+
+console.log(countBits(1234))
