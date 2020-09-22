@@ -19,4 +19,4 @@ function rgbx(r, g, b){
     }).join('').toUpperCase()
   }
 
-console.log(rgb(0, 0, 0))
+console.log(rgb(148, 0, 211))
