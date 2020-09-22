@@ -6,3 +6,5 @@ function halvingSum(n) {
     }
 return x
 }
+
+console.log(halvingSum(25))
