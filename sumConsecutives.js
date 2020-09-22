@@ -5,4 +5,4 @@ const sumConsecutives = s =>
         return acc
 }, [])
 
-console.log(sumConsecutives([1,4,4,4,0,4,3,3,1]))
+console.log(sumConsecutives([1,4,4,4,4,3,3,1]))
