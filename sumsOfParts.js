@@ -7,3 +7,5 @@ function partsSums(ls) {
     }
     return res
 }
+
+console.log(partsSums([1, 2, 3, 4, 5, 6]))
