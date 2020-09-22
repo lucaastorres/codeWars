@@ -1,0 +1,1 @@
+var isSquare = n => Number.isInteger(Math.sqrt(n))
