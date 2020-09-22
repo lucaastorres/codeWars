@@ -9,3 +9,5 @@ function highAndLow(numbers){
   var res = `${Math.max.apply(null, array)} ${Math.min.apply(null, array)}`
       return res
   }
+
+console.log(highAndLow("1 2 3 4 5"))
